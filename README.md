@@ -5,3 +5,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [Iterations - Binary Gap](iterations/BinaryGap.java)
 
 [Arrays - CyclicRotation](arrays/CyclicRotation.java)
+
+[Arrays - OddOccurrencesInArray](arrays/OddOccurrencesInArray.java)
