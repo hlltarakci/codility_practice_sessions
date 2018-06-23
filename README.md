@@ -11,3 +11,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [Time Complexity - FrogJmp](timeComplexity/FrogJmp.java)
 
 [Time Complexity - PermMissingElem](timeComplexity/PermMissingElem.java)
+
+[Time Complexity - TapeEquilibrium](timeComplexity//TapeEquilibrium.java)
