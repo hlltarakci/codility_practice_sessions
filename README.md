@@ -7,3 +7,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [Arrays - CyclicRotation](arrays/CyclicRotation.java)
 
 [Arrays - OddOccurrencesInArray](arrays/OddOccurrencesInArray.java)
+
+[Time Complexity - FrogJmp](timeComplexity/FrogJmp.java)
