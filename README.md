@@ -3,4 +3,5 @@
 My solutions for [Codility practice sessions](https://app.codility.com/programmers/lessons/)
 
 [Iterations - Binary Gap](iterations/BinaryGap.java)
+
 [Arrays - CyclicRotation](arrays/CyclicRotation.java)
