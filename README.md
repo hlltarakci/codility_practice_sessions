@@ -15,7 +15,7 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 
 [PermMissingElem](timeComplexity/PermMissingElem.java)
 
-[TapeEquilibrium](timeComplexity//TapeEquilibrium.java)
+[TapeEquilibrium](timeComplexity/TapeEquilibrium.java)
 
 ## Lesson 4 - Counting Elements
 [FrogRiverOne](countingElements/FrogRiverOne.java]
