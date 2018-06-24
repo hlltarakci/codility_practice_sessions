@@ -25,3 +25,6 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [PermCheck](countingElements/PermCheck.java)
 
 [MaxCounters](countingElements/MaxCounters.java)
+
+## Lesson 5 - Prefix Sums
+[CountDiv](prefixSums/CountDiv.java)
