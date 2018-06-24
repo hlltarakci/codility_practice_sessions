@@ -30,3 +30,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [CountDiv](prefixSums/CountDiv.java)
 
 [PassingCars](prefixSums/PassingCars.java)
+
+[GenomicRangeQuery](prefixSums/GenomicRangeQuery.java)
