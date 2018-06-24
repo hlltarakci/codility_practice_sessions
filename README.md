@@ -23,3 +23,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [MissingInteger](countingElements/MissingInteger.java)
 
 [PermCheck](countingElements/PermCheck.java)
+
+[MaxCounters](countingElements/MaxCounters.java)
