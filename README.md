@@ -28,3 +28,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 
 ## Lesson 5 - Prefix Sums
 [CountDiv](prefixSums/CountDiv.java)
+
+[PassingCars](prefixSums/PassingCars.java)
