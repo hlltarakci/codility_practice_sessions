@@ -13,8 +13,7 @@ class Solution {
         // for each left 0, there are as many passing cars as 1 s on its right
         // in other words,
         // ... for each 1, there are as many passing cars as 0 s on its left
-    
-        int len = A.length;
+   
         int eastCount = 0;
         int passingCount = 0;
         
