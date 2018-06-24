@@ -2,14 +2,19 @@
 
 My solutions for [Codility practice sessions](https://app.codility.com/programmers/lessons/)
 
-[Iterations - Binary Gap](iterations/BinaryGap.java)
+## Lesson 1 - Iterations
+[Binary Gap](iterations/BinaryGap.java)
 
-[Arrays - CyclicRotation](arrays/CyclicRotation.java)
+## Lesson 2 - Arrays
+[CyclicRotation](arrays/CyclicRotation.java)
 
-[Arrays - OddOccurrencesInArray](arrays/OddOccurrencesInArray.java)
+[OddOccurrencesInArray](arrays/OddOccurrencesInArray.java)
 
-[Time Complexity - FrogJmp](timeComplexity/FrogJmp.java)
+## Lesson 3 - Time Complexity
+[FrogJmp](timeComplexity/FrogJmp.java)
 
-[Time Complexity - PermMissingElem](timeComplexity/PermMissingElem.java)
+[PermMissingElem](timeComplexity/PermMissingElem.java)
 
-[Time Complexity - TapeEquilibrium](timeComplexity//TapeEquilibrium.java)
+[TapeEquilibrium](timeComplexity//TapeEquilibrium.java)
+
+## Lesson 4 - Counting Elements
