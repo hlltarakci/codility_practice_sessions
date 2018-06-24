@@ -32,3 +32,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [PassingCars](prefixSums/PassingCars.java)
 
 [GenomicRangeQuery](prefixSums/GenomicRangeQuery.java)
+
+[MinAvgTwoSlice](prefixSums/MinAvgTwoSlice.java)
