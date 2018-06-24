@@ -19,3 +19,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 
 ## Lesson 4 - Counting Elements
 [FrogRiverOne](countingElements/FrogRiverOne.java)
+
+[MissingInteger](countingElements/MissingInteger.java)
