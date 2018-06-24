@@ -18,3 +18,4 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [TapeEquilibrium](timeComplexity//TapeEquilibrium.java)
 
 ## Lesson 4 - Counting Elements
+[FrogRiverOne](countingElements/FrogRiverOne.java]
