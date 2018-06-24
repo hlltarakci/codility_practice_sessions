@@ -21,3 +21,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [FrogRiverOne](countingElements/FrogRiverOne.java)
 
 [MissingInteger](countingElements/MissingInteger.java)
+
+[PermCheck](countingElements/PermCheck.java)
