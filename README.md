@@ -34,3 +34,6 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [GenomicRangeQuery](prefixSums/GenomicRangeQuery.java)
 
 [MinAvgTwoSlice](prefixSums/MinAvgTwoSlice.java)
+
+## Lesson 6 - Sorting
+[Distinct](sorting/Distinct.java)
