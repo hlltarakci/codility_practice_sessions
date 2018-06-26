@@ -37,3 +37,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 
 ## Lesson 6 - Sorting
 [Distinct](sorting/Distinct.java)
+
+[MaxProductOfThree](sorting/MaxProductOfThree.java)
