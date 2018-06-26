@@ -39,3 +39,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [Distinct](sorting/Distinct.java)
 
 [MaxProductOfThree](sorting/MaxProductOfThree.java)
+
+[Triangle](sorting/Triangle.java)
