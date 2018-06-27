@@ -18,7 +18,7 @@ class Solution {
         for(int i=0; i<len; i++) {
             // each point starts at index - radius
             // since there is no need to consider negative points
-            // .. keep them at index 
+            // .. keep them at index 0
             int starting = i - A[i] < 0 ? 0 : i - A[i];
             numOfCirclesStartingArr[starting]++;
             
