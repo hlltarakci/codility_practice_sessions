@@ -41,3 +41,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [MaxProductOfThree](sorting/MaxProductOfThree.java)
 
 [Triangle](sorting/Triangle.java)
+
+[NumberOfDiscIntersections](sorting/NumberOfDiscIntersections.java)
