@@ -46,3 +46,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 
 ## Lesson 7 - Stacks and Queues
 [Nesting](stacksAndQueues/Nesting.java)
+
+[Brackets](stacksAndQueues/Brackets.java)
