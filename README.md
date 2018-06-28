@@ -43,3 +43,6 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [Triangle](sorting/Triangle.java)
 
 [NumberOfDiscIntersections](sorting/NumberOfDiscIntersections.java)
+
+## Lesson 7 - Stacks and Queues
+[Nesting](stacksAndQueues/Nesting.java)
