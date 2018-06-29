@@ -48,3 +48,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [Nesting](stacksAndQueues/Nesting.java)
 
 [Brackets](stacksAndQueues/Brackets.java)
+
+[Fish](stacksAndQueues/Fish.java)
