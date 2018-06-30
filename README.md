@@ -52,3 +52,6 @@ My 100% scoring solutions for [Codility practice sessions](https://app.codility.
 [Fish](stacksAndQueues/Fish.java)
 
 [StoneWall](stacksAndQueues/StoneWall.java)
+
+## Lesson 8 - Leader
+[Dominator](leader/Dominator.java)
