@@ -50,3 +50,5 @@ My solutions for [Codility practice sessions](https://app.codility.com/programme
 [Brackets](stacksAndQueues/Brackets.java)
 
 [Fish](stacksAndQueues/Fish.java)
+
+[StoneWall](stacksAndQueues/StoneWall.java)
