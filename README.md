@@ -1,6 +1,6 @@
 # Codility Practice Sessions
 
-My solutions for [Codility practice sessions](https://app.codility.com/programmers/lessons/)
+My 100% scoring solutions for [Codility practice sessions](https://app.codility.com/programmers/lessons/)
 
 ## Lesson 1 - Iterations
 [Binary Gap](iterations/BinaryGap.java)
