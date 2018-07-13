@@ -55,3 +55,5 @@ My 100% scoring solutions for [Codility practice sessions](https://app.codility.
 
 ## Lesson 8 - Leader
 [Dominator](leader/Dominator.java)
+
+[EquiLeader](leader/EquiLeader.java)
