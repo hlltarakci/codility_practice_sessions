@@ -6,21 +6,22 @@
 
 class Solution {
     public int solution(int N) {
-        // write your code in Java SE 8
-        int maxGap = 0;
-        int countGap = 0;
-        boolean counting = false;
+        int maxGap = 0, currGap = 0;
+        boolean isInGap = false;
         
-        while( N > 0 ) {
-            if( N % 2 == 1 || N == 1) { 
-                counting = true;
-                if(maxGap < countGap) { maxGap = countGap; }
-                countGap = 0; 
-            }
-            else if (counting) { countGap++;}
+        while(N > 0) {
+            if(isOne(N)) {
+                maxGap = maxGap < currGap ? currGap : maxGap;
+                currGap = 0;
+                isInGap = true;
+            } else if(isInGap){ currGap++; }
             N /= 2;
         }
         
         return maxGap;
+    }
+    
+    private boolean isOne(int N) {
+        return N%2 == 1 || N == 1 ;
     }
 }
